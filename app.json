@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/list",
+    "pages/set/set",
+    "pages/edit/edit",
+    "pages/ceshi/ceshi"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#FAE8B6"
+  },
+  "sitemapLocation": "sitemap.json"
+}
